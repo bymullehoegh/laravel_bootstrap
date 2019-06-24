@@ -1,7 +1,7 @@
 
 # CRUD in Laravel 5.8
-# Laravel and Bootsrap combined.
-# Tutorial from (CREDIT): https://www.youtube.com/watch?v=9y-xDE_6gjc 
+Laravel and Bootsrap combined.
+Tutorial from (CREDIT): https://www.youtube.com/watch?v=9y-xDE_6gjc 
 
 Instructions:
 - Select a theme on https://startbootstrap.com/themes/ and download it
